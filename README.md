@@ -96,4 +96,4 @@ Project Link: [https://github.com/Ankitrajput07/responsive-portfolio-websit.git]
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache License.
